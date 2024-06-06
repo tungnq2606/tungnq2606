@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-https://github-readme-stats.vercel.app/api?username=tungnq2606
+[![QuocTung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungnq2606)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tungnq2606/tungnq2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
