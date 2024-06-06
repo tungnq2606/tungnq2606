@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,redux,react,ts,nodejs,mongodb,mysql,java,git,github,gitlab,aws)](https://skillicons.dev)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tungnq2606)
   
